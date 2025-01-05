@@ -34,7 +34,6 @@ The objective of this redesign is to enhance Zara's e-commerce website by creati
 ### **Technology Used:**  
 1. **Figma** for creating interactive wireframes and prototypes.  
 2. **User Analytics Tools** to gather insights on existing website performance.  
-3. **A/B Testing Platforms** to validate the redesigned features.
 
 
 ### **Key Insights:**  
@@ -42,6 +41,4 @@ The objective of this redesign is to enhance Zara's e-commerce website by creati
 2. Highlighting key product details enhances trust and drives conversions.  
 3. A seamless checkout experience significantly lowers cart abandonment rates.  
 
-
-
-![Screenshot 2025-01-05 135729](https://github.com/user-attachments/assets/420dd58e-372c-480d-9414-db1b5fcc7e2b)
+![Screenshot 2025-01-05 145159](https://github.com/user-attachments/assets/3b112dbe-1cc6-4499-bdfa-b667ffb17536)
