@@ -41,4 +41,6 @@ The objective of this redesign is to enhance Zara's e-commerce website by creati
 2. Highlighting key product details enhances trust and drives conversions.  
 3. A seamless checkout experience significantly lowers cart abandonment rates.  
 
-![Screenshot 2025-01-05 145159](https://github.com/user-attachments/assets/3b112dbe-1cc6-4499-bdfa-b667ffb17536)
+![Screenshot 2025-01-05 145345](https://github.com/user-attachments/assets/31286b0e-c773-44c4-a5ef-cb75af0997e7)
+
+![Screenshot 2025-01-05 145420](https://github.com/user-attachments/assets/dd90ca10-dfad-4d86-80b0-6da5d7bb2fd9)
